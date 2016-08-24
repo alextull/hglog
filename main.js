@@ -209,5 +209,3 @@ app.listen(port);
 console.log("Server lauscht auf http://localhost:" + port);
 
 // end express
-
-//testcomment
