@@ -27,8 +27,8 @@ var options = {
 
 // noch statsiche Definition cgpn - device
 var devices = {
-  300: 'SEPDCEB94BD21B2',
-  41150: 'SEPDCEB94BD21F5',
+  310: 'SEPDCEB94BD21B2',
+  300: 'SEPDCEB94BD21F5',
 };
 
 
